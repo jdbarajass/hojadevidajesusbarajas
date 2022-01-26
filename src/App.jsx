@@ -1,4 +1,5 @@
-import HojaDeVida from "./pages/HojaDeVida"
+import HojaDeVida from "./pages/HojaDeVida";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
 
 function App() {
@@ -6,8 +7,8 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route path={["/"]}>
-            <HojaDeVida/>
+          <Route path="/">
+            <HojaDeVida />
           </Route>
         </Switch>
       </Router>
