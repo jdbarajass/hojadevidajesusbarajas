@@ -270,11 +270,6 @@ ul {
   height: 525px;
   width: 2000px;
 }
-@font-face {
-  /*para crear mis propias fuentes*/
-  font-family: FuenteHollow;
-  src: url(/src/fonts/Pokemon_Hollow.ttf);
-}
 .TituloSesion {
   text-align: center;
   margin-top: 24px;
