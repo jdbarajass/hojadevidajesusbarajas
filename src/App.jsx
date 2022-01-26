@@ -1,17 +1,16 @@
 import HojaDeVida from "./pages/HojaDeVida";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <Router>
-        <Switch>
-          <Route path="/">
-            <HojaDeVida />
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<HojaDeVida/>}>
           </Route>
-        </Switch>
-      </Router>
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
