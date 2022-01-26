@@ -1,10 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import HojaDeVida from "./pages/HojaDeVida"
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hola</h1>
+      <Router>
+        <Switch>
+          <Route path={["/"]}>
+            <HojaDeVida/>
+          </Route>
+        </Switch>
+      </Router>
     </div>
   );
 }
