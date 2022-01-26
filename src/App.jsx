@@ -1,5 +1,6 @@
 import HojaDeVida from "./pages/HojaDeVida";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import "styles/styles.css";
 import "./App.css";
 
 function App() {
