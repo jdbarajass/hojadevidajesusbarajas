@@ -114,7 +114,7 @@ const HojaDeVida = () => {
           </div>
           <h1 class="DescripcionCV justificartexto">
             Ingeniero En Control Y Automatización egresado de la universidad
-            distrital francisco José de caldas, de Bogotá, Colombia; Tengo
+            distrital francisco José de caldas, de Bogotá, Colombia; Con
             conocimientos en electrónica, instrumentación, automatización y
             control; manejo lenguajes de programación como C++, Java, LabVIEW,
             Python, Matlab, R studio, JavaScript para desarrollo de páginas WEB
@@ -140,11 +140,10 @@ const HojaDeVida = () => {
               <ul>
                 <li class="justificartexto">
                   Programador enfocado a las competencias de Robots en la
-                  categoría de sumo. Se programan los diferentes Robots en el
-                  programa Arduino y con la tarjeta de desarrollo MiniBlack,
+                  categoría de sumo. Se programan los diferentes Robots con el programa Arduino y con la tarjeta de desarrollo MiniBlack,
                   para tener las diferentes tácticas en la competición y poder
                   ganar al contrincante con las diferentes programaciones
-                  plasmadas como rutinas estratégicas. Se usa programación java
+                  plasmadas como rutinas, estratégicas. Se usa programación java
                   orientada a objetos.
                 </li>
                 <li>
@@ -290,7 +289,7 @@ const HojaDeVida = () => {
                 aplicaciones Web.
               </h1>
               <h3 class="colocarmarginbottom">
-                Certificado Realidado En La Universidad De Antioquia (+800
+                Certificado Realizado En La Universidad De Antioquia (+800
                 Horas)
               </h3>
               <ul>
