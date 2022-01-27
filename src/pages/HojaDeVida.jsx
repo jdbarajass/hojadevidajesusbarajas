@@ -80,6 +80,7 @@ const HojaDeVida = () => {
                 <i class="fab fa-linkedin telefonounion sepadodesitiosweb">
                   <h3 class="telefonounion">
                     <a
+                      class="Quitarguionalpiso"
                       class="color-a-sitios-web"
                       href="https://www.linkedin.com/in/jdbarajass/"
                     >
@@ -90,6 +91,7 @@ const HojaDeVida = () => {
                 <i class="fab fa-github telefonounion sepadodesitiosweb">
                   <h3 class="telefonounion">
                     <a
+                      class="Quitarguionalpiso"
                       class="color-a-sitios-web"
                       href="https://github.com/jdbarajass"
                     >
@@ -140,7 +142,8 @@ const HojaDeVida = () => {
               <ul>
                 <li class="justificartexto">
                   Programador enfocado a las competencias de Robots en la
-                  categoría de sumo. Se programan los diferentes Robots con el programa Arduino y con la tarjeta de desarrollo MiniBlack,
+                  categoría de sumo. Se programan los diferentes Robots con el
+                  programa Arduino y con la tarjeta de desarrollo MiniBlack,
                   para tener las diferentes tácticas en la competición y poder
                   ganar al contrincante con las diferentes programaciones
                   plasmadas como rutinas, estratégicas. Se usa programación java
