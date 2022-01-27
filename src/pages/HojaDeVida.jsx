@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import Fotoportada from "../media/FotoBuena.png";
 import HTML5 from "../media/HTML5.png";
 import Nodejs from "../media/node-js.png";
@@ -347,10 +347,15 @@ const HojaDeVida = () => {
           <div class="titulosDescriptivos">
             <h1 class="marginleft">Información Adicional</h1>
           </div>
-          <ul>
-            <li>Permiso para conducir B1 y moto propia</li>
-            <li>Disponibilidad inmediata</li>
-          </ul>
+          <div class="columnas margin-top-a-titulos-educacion">
+            <div class="fechaexperiencia">2022</div>
+            <div class="margininformacionadicinal">
+              <ul>
+                <li>Permiso para conducir B1 y moto propia</li>
+                <li>Disponibilidad inmediata</li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -404,7 +409,7 @@ export default HojaDeVida;
 //             <li>
 //               <h3>Capacidad De Liderazgo Y Trabajo En Equipo</h3>
 //             </li>
-//           </ul>           
+//           </ul>
 //           <div class="titulosDescriptivos">
 //             <h2 class="titulosTecnologia">Tecnologías</h2>
 //           </div>
@@ -460,7 +465,7 @@ export default HojaDeVida;
 //               </div>
 //               <div iv>
 //               <i class="fas fa-phone-alt telefonounion"><h3 class="telefonounion">Teléfono</h3></i>
-//             </div>          
+//             </div>
 //             <h3 class="margin-left-telefono">(+57) 3144065520</h3>
 //             <i class="far fa-envelope-open telefonounion">
 //             <h3 class="telefonounion">jdbarajass@gmail.com</h3>
@@ -499,7 +504,7 @@ export default HojaDeVida;
 //         </h1>
 //         <div class="titulosDescriptivos">
 //           <h1 class="marginleft">Experiencia</h1>
-//         </div>        
+//         </div>
 //          <div class="columnas">
 //             <div class="fechaexperiencia">2018- <br> 2019</div>
 //             <div class="DescripcionEmpresa">
@@ -508,8 +513,8 @@ export default HojaDeVida;
 //               <ul>
 //                 <li class="justificartexto">Programador enfocado a las competencias de Robots en la categoría de sumo. Se programan los diferentes Robots en el programa Arduino y con la tarjeta de desarrollo MiniBlack, para tener las diferentes tácticas en la competición y poder ganar al contrincante con las diferentes programaciones plasmadas como rutinas estratégicas. Se usa programación java orientada a objetos.</li>
 //                   <li>Soldar los diferentes componentes electrónicos tarjetas controladoras y demás para su funcionamiento circuital.</li>
-//                   <li>Ensamble de todas las piezas del robot para su correcto funcionamiento.</li>                  
-//               </ul>            
+//                   <li>Ensamble de todas las piezas del robot para su correcto funcionamiento.</li>
+//               </ul>
 //             </div>
 //         </div>
 //           <div class="columnas margin-top-a-titulos-educacion">
@@ -518,9 +523,9 @@ export default HojaDeVida;
 //               <h2 class="quitarmargin">Interventor</h2>
 //               <h3 class="colocarmarginbottom">Area De Salud</h3>
 //               <ul>
-//                 <li >Interventor en el área de salud para equipos de comunicación</li> 
+//                 <li >Interventor en el área de salud para equipos de comunicación</li>
 //               <li class="justificartexto">Realizar visitas regularmente a los puestos de salud y verificar los avances de las diferentes sedes del proyecto, realizando informe para las mismas, verificar la entrega y la instalación, configuración y puesta en marcha para los equipos entregados durante el proyecto (Access Point, switch capa 2, servidores, firewall, nodo de hiperconvergencia, UPS, tablero red regulada y puntos de red), además de realizar el levantamiento de las actas para la entrega de los equipos.</li>
-//               </ul>            
+//               </ul>
 //             </div>
 //         </div>
 //          <div class="columnas margin-top-a-titulos-educacion">
@@ -529,12 +534,12 @@ export default HojaDeVida;
 //               <h2 class="quitarmargin">Programador y Diseñador 3D</h2>
 //               <h3 class="colocarmarginbottom">Artmotics (Emprendimiento)</h3>
 //               <ul>
-//                 <li>Programador de tarjetas NodeMCU, ESP8266, Módulo ESP-12E y sus diferentes gamas, todo enfocado hacia el sector domótico.</li> 
+//                 <li>Programador de tarjetas NodeMCU, ESP8266, Módulo ESP-12E y sus diferentes gamas, todo enfocado hacia el sector domótico.</li>
 //               <li>Mantenimiento e instalación de cámaras de seguridad y cableado interno.</li>
 //               <li>Diseño 3D en SolidWorks.(Manejo de maquina 3D)</li>
 //               <li>Diseño De Circuitos Electrónicos En Eagle y Proteus.</li>
 //               <li>Mantenimiento De Equipos De Computo.</li>
-//               </ul>            
+//               </ul>
 //             </div>
 //         </div>
 //           <div class="columnas margin-top-a-titulos-educacion">
@@ -544,7 +549,7 @@ export default HojaDeVida;
 //               <h3 class="colocarmarginbottom">Área De Telecomunicaciones</h3>
 //               <ul>
 //                 <li class="justificartexto">Realizar diagnóstico y de ser posible la reparación de los equipos (módem y decodificadores de video). en el área de Re-manufacturación para las principales empresas que prestan el servicio de televisión y telefonía hogar (Claro, Une, Tigo, ETB) .</li>
-//               </ul>            
+//               </ul>
 //             </div>
 //         </div>
 //           <div class="columnas margin-top-a-titulos-educacion">
@@ -557,9 +562,9 @@ export default HojaDeVida;
 //                 <li>Manejo de Matlab y capacitación de la misma a los estudiantes.</li>
 //                 <li>Manejo de tablero electrónico para disposición de los docentes.</li>
 //                 <li>Manejo de equipo multimedia como lo es video Beam, audio ETC.</li>
-//               </ul>            
+//               </ul>
 //             </div>
-//         </div>          
+//         </div>
 //         <div class="titulosDescriptivos">
 //           <h1 class="marginleft">Educación</h1>
 //           </div>
@@ -569,10 +574,10 @@ export default HojaDeVida;
 //               <h1 class="quitarmargin">Universidad Distrital Francisco José De Caldas</h1>
 //               <h3 class="colocarmarginbottom">Ingenieria En Control y Autorización</h3>
 //               <ul>
-//                 <li class="justificartexto">Ingeniero En Control Y Automatización con conocimientos en electrónica, instrumentación, automatización y control; manejo 
+//                 <li class="justificartexto">Ingeniero En Control Y Automatización con conocimientos en electrónica, instrumentación, automatización y control; manejo
 //               lenguajes de programación como C++, Java, LabVIEW, Python, Matlab, R studio, JavaScript para desarrollo de páginas WEB con tecnologías como React, HTML5, Nodejs, CSS3 entre otros. Conocimiento de PLC´S Siemens, actualmente haciendo proyectos de Domótica, cursos de programación, Diplomado en programación en la universidad de Antioquia y Beca por medio de BIT Bogotá Institute Of Technology, mantenimiento de cómputo, Soporte sistemas operativos y diferentes Windows, ofimática, conocimiento
 //               básico en Linux, diseño de páginas web, técnicas empresariales de digitación.</li>
-//               </ul>            
+//               </ul>
 //             </div>
 //         </div>
 //         <div class="columnas margin-top-a-titulos-educacion">
@@ -581,8 +586,8 @@ export default HojaDeVida;
 //               <h1 class="quitarmargin">Diplomado en habilidades en programación con énfasis en aplicaciones Web.</h1>
 //               <h3 class="colocarmarginbottom">Certificado Realidado En La Universidad De Antioquia (+800 Horas)</h3>
 //               <ul>
-//                 <li> Lenguajes (JavaScript, TypeScript, Java, Python), Bases De Datos NoSQL (MongoDB) No Relacional, Integración Backend & Frontend (Stack MEAN / MERN), Contenedores Para Apps (Docker), Integración A GraphQL Con NodeJS, Despliegue en Entornos Cloud (PassS), Gestión De La Configuración Del Software (Git / GitHub / SourceTree) entre otros.</li> 
-//               </ul>            
+//                 <li> Lenguajes (JavaScript, TypeScript, Java, Python), Bases De Datos NoSQL (MongoDB) No Relacional, Integración Backend & Frontend (Stack MEAN / MERN), Contenedores Para Apps (Docker), Integración A GraphQL Con NodeJS, Despliegue en Entornos Cloud (PassS), Gestión De La Configuración Del Software (Git / GitHub / SourceTree) entre otros.</li>
+//               </ul>
 //             </div>
 //         </div>
 //         <div class="columnas margin-top-a-titulos-educacion">
@@ -599,7 +604,7 @@ export default HojaDeVida;
 //               </li>
 //               <li>Frameworks DataBase</li>
 //               <li>Desarrollo De Aplicaciones Web Mean Stack</li>
-//               </ul>            
+//               </ul>
 //             </div>
 //         </div>
 //         <div>
@@ -615,12 +620,12 @@ export default HojaDeVida;
 //                    <li>
 //                   Mantenimiento De Equipos De Cómputo (Software y Hardware)
 //                 </li>
-//                 </ul>            
+//                 </ul>
 //               </div>
-//           </div>     
+//           </div>
 //         </div>
 //         <div class="titulosDescriptivos">
-//           <h1 class="marginleft">Información Adicional</h1> 
+//           <h1 class="marginleft">Información Adicional</h1>
 //           </div>
 //           <ul>
 //             <li>

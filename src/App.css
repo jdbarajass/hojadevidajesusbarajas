@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,7 +35,7 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
 
 /* ******Desde acá comienza mi css */
 /* body {
@@ -574,4 +574,10 @@ margin-right: 30px;
 .justificartexto{
   text-align: justify;
   margin-right: 35px;
+}
+.Quitarbordeperfil{
+  text-align: right;
+}
+.margininformacionadicinal{
+  margin-bottom: 20px;
 }
