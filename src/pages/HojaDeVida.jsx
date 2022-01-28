@@ -113,8 +113,8 @@ const HojaDeVida = () => {
             <h1>Perfil</h1>
           </div>
           <h1 class="DescripcionCV justificartexto">
-            Ingeniero En Control Y Automatización egresado de la universidad
-            distrital francisco José de caldas, de Bogotá, Colombia; Con
+            Ingeniero En Control Y Automatización egresado de la Universidad
+            Distrital Francisco José De caldas, de Bogotá, Colombia. Con
             conocimientos en electrónica, instrumentación, automatización y
             control; manejo lenguajes de programación como C++, Java, LabVIEW,
             Python, Matlab, R studio, JavaScript para desarrollo de páginas WEB
