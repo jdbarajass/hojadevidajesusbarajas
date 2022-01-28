@@ -80,19 +80,17 @@ const HojaDeVida = () => {
                 <i class="fab fa-linkedin telefonounion sepadodesitiosweb">
                   <h3 class="telefonounion">
                     <a
-                      class="Quitarguionalpiso"
-                      class="color-a-sitios-web"
+                      class="color-a-sitios-web Quitarguionalpiso"
                       href="https://www.linkedin.com/in/jdbarajass/"
                     >
-                      LinkedIn
+                      Linkedin
                     </a>
                   </h3>
                 </i>
                 <i class="fab fa-github telefonounion sepadodesitiosweb">
                   <h3 class="telefonounion">
                     <a
-                      class="Quitarguionalpiso"
-                      class="color-a-sitios-web"
+                      class="color-a-sitios-web Quitarguionalpiso"
                       href="https://github.com/jdbarajass"
                     >
                       GitHub
