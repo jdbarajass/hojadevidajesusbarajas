@@ -167,7 +167,7 @@ const HojaDeVida = () => {
               <h3 class="colocarmarginbottom">Area De Salud</h3>
               <ul>
                 <li>
-                  Interventor en el área de salud para equipos de comunicación
+                  Interventor en el área de salud para equipos de comunicación.
                 </li>
                 <li class="justificartexto">
                   Realizar visitas regularmente a los puestos de salud y
@@ -198,7 +198,7 @@ const HojaDeVida = () => {
                   Mantenimiento e instalación de cámaras de seguridad y cableado
                   interno.
                 </li>
-                <li>Diseño 3D en SolidWorks.(Manejo de maquina 3D)</li>
+                <li>Diseño 3D en SolidWorks.(Manejo de maquina 3D).</li>
                 <li>Diseño De Circuitos Electrónicos En Eagle y Proteus.</li>
                 <li>Mantenimiento De Equipos De Computo.</li>
               </ul>
@@ -214,7 +214,7 @@ const HojaDeVida = () => {
               <ul>
                 <li class="justificartexto">
                   Realizar diagnóstico y de ser posible la reparación de los
-                  equipos (módem y decodificadores de video). en el área de
+                  equipos (módem y decodificadores de videoy quipos de telecomucación) en el área de
                   Re-manufacturación para las principales empresas que prestan
                   el servicio de televisión y telefonía hogar (Claro, Une, Tigo,
                   ETB) .
@@ -271,7 +271,7 @@ const HojaDeVida = () => {
                   con tecnologías como React, HTML5, Nodejs, CSS3 entre otros.
                   Conocimiento de PLC´S Siemens, actualmente haciendo proyectos
                   de Domótica, cursos de programación, Diplomado en programación
-                  en la universidad de Antioquia y Beca por medio de BIT Bogotá
+                  en la Universidad De Antioquia y Beca por medio de BIT Bogotá
                   Institute Of Technology, mantenimiento de cómputo, Soporte
                   sistemas operativos y diferentes Windows, ofimática,
                   conocimiento básico en Linux, diseño de páginas web, técnicas
@@ -316,10 +316,10 @@ const HojaDeVida = () => {
                 BootCamp Desarrollo Web Full Stack
               </h3>
               <ul>
-                <li>Desarrollo FronEnd</li>
-                <li>Desarrollo BackEnd</li>
-                <li>Frameworks DataBase</li>
-                <li>Desarrollo De Aplicaciones Web Mean Stack</li>
+                <li>Desarrollo FronEnd.</li>
+                <li>Desarrollo BackEnd.</li>
+                <li>Frameworks DataBase.</li>
+                <li>Desarrollo De Aplicaciones Web Mean Stack.</li>
               </ul>
             </div>
           </div>
@@ -338,7 +338,7 @@ const HojaDeVida = () => {
                 </h3>
                 <ul>
                   <li>
-                    Mantenimiento De Equipos De Cómputo (Software y Hardware)
+                    Mantenimiento De Equipos De Cómputo (Software y Hardware).
                   </li>
                 </ul>
               </div>
@@ -351,8 +351,8 @@ const HojaDeVida = () => {
             <div class="fechaexperiencia">2022</div>
             <div class="margininformacionadicinal">
               <ul>
-                <li>Permiso para conducir B1 y moto propia</li>
-                <li>Disponibilidad inmediata</li>
+                <li>Permiso para conducir B1 y moto propia.</li>
+                <li>Disponibilidad inmediata.</li>
               </ul>
             </div>
           </div>
