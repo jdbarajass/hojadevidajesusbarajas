@@ -214,7 +214,7 @@ const HojaDeVida = () => {
               <ul>
                 <li class="justificartexto">
                   Realizar diagnóstico y de ser posible la reparación de los
-                  equipos (módem y decodificadores de videoy quipos de telecomucación) en el área de
+                  equipos (módem y decodificadores de video y quipos de telecomunicación) en el área de
                   Re-manufacturación para las principales empresas que prestan
                   el servicio de televisión y telefonía hogar (Claro, Une, Tigo,
                   ETB) .
