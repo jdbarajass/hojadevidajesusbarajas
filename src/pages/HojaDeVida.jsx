@@ -119,10 +119,10 @@ const HojaDeVida = () => {
             control; manejo lenguajes de programación como C++, Java, LabVIEW,
             Python, Matlab, R studio, JavaScript para desarrollo de páginas WEB
             con tecnologías como React, HTML5, NodeJS, MongoDB, CSS3 entre
-            otros. Tambien con Conocimiento en PLC´S Siemens, actualmente
+            otros. También con conocimiento en PLC´S Siemens, actualmente
             haciendo proyectos de Domótica, cursos de programación, Diplomado en
-            programación en la Universidad De Antioquia y Beca por medio de BIT
-            Bogotá Institute Of Technology, mantenimiento de cómputo, Soporte
+            programación en la Universidad De Antioquia y beca por medio de BIT
+            Bogotá Institute Of Technology, mantenimiento de cómputo, soporte
             sistemas operativos y diferentes Windows, ofimática, conocimiento
             básico en Linux, diseño de páginas web, técnicas empresariales de
             digitación.
